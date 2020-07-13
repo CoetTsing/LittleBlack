@@ -1,2 +1,2 @@
 # LittleBlack
-Qt
+A Qt project for Coet.
